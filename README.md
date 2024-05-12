@@ -6,4 +6,6 @@ Bot benim tarafımdan yapılmıştır. Bot içerisinde bir kaç şey alıntıdı
 
 # Görselleri Yakında Yükliyeceğim.
 
-# 30 Starda Paylaşacağım.
+# 30 Starda Paylaşacağım. 
+
+Botta herhangi bir sorun vs bulunmamaktadır.
